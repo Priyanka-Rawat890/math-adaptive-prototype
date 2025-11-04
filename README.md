@@ -1,6 +1,6 @@
 #  Math Adventures — Adaptive Learning Prototype
 
-### 📘 Objective
+###  Objective
 
 This project demonstrates an **AI-powered adaptive math learning prototype** that dynamically adjusts problem difficulty based on learner performance.
 
@@ -50,3 +50,4 @@ A **rule-based approach** — it uses accuracy and average response time to adap
 **Priyanka Rawat**
 
 ---
+
